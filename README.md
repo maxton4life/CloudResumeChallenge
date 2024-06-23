@@ -1,4 +1,12 @@
-## The Cloud Resume Challenge
+# Cloud Resume Challenge
 
---- This is my own part of taking the cloud resume challenge.
-I am using an already template in html, css and a sprinkle of J
+What is Cloud Resume Challenge? - [The Cloud Resume Challenge](https://cloudresumechallenge.dev/) is a multiple-step resume project which helps build and demonstrate skills fundamental to pursuing a career in Cloud. The project was published by Forrest Brazeal.
+
+## Services Used
+- S3
+- AWS CloudFront
+- Certificate Manager
+- AWS Lambda
+- Dynamo DB
+- GitHub Actions
+- Terraform
